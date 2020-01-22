@@ -21,6 +21,7 @@
     - [You will need to know the basics of the Bash shell](#you-will-need-to-know-the-basics-of-the-bash-shell)
     - [Resources for learning Bash.](#resources-for-learning-bash)
 - [Exercise01](#exercise01)
+- [For next class](#for-next-class)
 
 # Class01
 
@@ -246,3 +247,6 @@ Once you have completed the above steps, type the command "exit". Then log into 
 
 NOTE: It is now expected that you have the basic ability to use a bash prompt to move files, copy files, create and remove directories, delete files, and understand how to redirect output to a file, and view the contents of a file. Getting comfortable with this may take a bit of practice. I'd encourage you to spend a bit of time trying these commands and coming up with your own scenarios to text and exercise your skills in this area. 
 
+# For next class
+
+Read the first chapter of the GitPro book found here https://git-scm.com/book/en/v2
