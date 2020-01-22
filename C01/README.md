@@ -249,4 +249,5 @@ NOTE: It is now expected that you have the basic ability to use a bash prompt to
 
 # For next class
 
-Read the first chapter of the GitPro book found here https://git-scm.com/book/en/v2
+* Read the first chapter of the GitPro book found here https://git-scm.com/book/en/v2
+* If you haven't done so already, download and install Anaconda Python (https://www.anaconda.com/distribution/), and Microsoft Visual Studio Code (https://code.visualstudio.com/)
