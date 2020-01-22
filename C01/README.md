@@ -11,7 +11,6 @@
   - [More background on Python](#more-background-on-python)
   - [Python Enhancement Proposals (PEPs)](#python-enhancement-proposals-peps)
   - [Python Terms](#python-terms)
-    - [Why do this? Don't be a Pakled.](#why-do-this-dont-be-a-pakled)
 - [Getting to Know Your Computer](#getting-to-know-your-computer)
   - [What happens when you "run" a python program](#what-happens-when-you-%22run%22-a-python-program)
 - [Introduction to the command line, terminal, and shell](#introduction-to-the-command-line-terminal-and-shell)
@@ -51,6 +50,8 @@ You will not be able to access all of this course content until you create your 
 
 A program is a sequence of instructions to accomplish a task. A programming language is different than a "natural language" (i.e., English, French, Spanish); it's much more formal and meant to force the "speaker" of the language to be very specific. The "listener" of the language is the computer, and computers have difficulties with nuanced communication and thus require very detailed and accurate instructions on how to perform any task. NOTE: Computers only look smart because some programmer(s) make it look that way.
 
+Why program?  https://www.youtube.com/watch?v=Dv7gLpW91DM
+
 ##  The Python Programming Language
 
 The programming language you will be learning in this course is Python. There are many other languages out there. Some languages are general-purpose;  in that, they are meant to allow a programmer to create virtually any application, while others are more domain specific and focus on a subset of programs/application development (i.e., Mathematica, MatLab)
@@ -81,7 +82,12 @@ This course will give you the necessary foundational knowledge of the language a
 
 Not named after the snake, but from Monty Python (The original creator of Python, Guido Van Rossum, was a big fan of Monty Python, and the Python documentation and community can reflect this and be a bit humorous/whimsical)
 
+A sample of Monty Python  https://www.youtube.com/watch?v=ohDB5gbtaEQ
+
 Python has a unique culture and community based on its core design philosophy on readability and syntax that enables you to write concise programs.
+
+An overview of Python community/management https://docs.python-guide.org/intro/community/
+
 
 ##  Python Enhancement Proposals (PEPs)
 
@@ -112,9 +118,6 @@ In this course, you will be creating a workflow using tools such as Git, GitHub,
 
 In the following sections we'll get to know a bit more about your computer, learn about terminals, consoles, and shells, about version control systems (Git) and code sharing repositories (GitHub), about documentation using markdown, and working with our development.
 
-### Why do this? Don't be a Pakled.
-
-[![Don't be a Pakled](http://img.youtube.com/vi/KeFoGo3N_4g/0.jpg)](https://youtu.be/KeFoGo3N_4g)
 
 
 # Getting to Know Your Computer
