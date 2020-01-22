@@ -41,7 +41,7 @@ All content for this course is available via GitHub (https://github.com/ITM360).
 
 Within GitHub, I've created an organization for ITM360 programming for managers, and within this, a number of different "repos" (repositories - a term we will cover later) that will hold content for assignments, tests, and class notes. 
 
-You will be able to access all of this course content once you create your GitHub account (this will be an exercise that you will do next class). For now, you should be able to access class0 content from here https://github.com/ITM360/ITM360-Public,
+You will not be able to access all of this course content until you create your GitHub account and are invited to join the organization/class (this will be an exercise that you will do next class). For now, you should be able to access class01 content from here https://github.com/ITM360/ITM360-Public .
 
 
 # Introduction to Programming (and Python)
