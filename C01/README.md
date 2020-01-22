@@ -223,7 +223,8 @@ Also, there is a free course on Codeacademy (https://www.codecademy.com/learn/le
 # Exercise01
 
 * Install Git (see git_install.md located in the ClassNotes/Class01 repository)
-* Run bash
+* Run bash (the professor will provide instructions on how to start a terminal/bash session)
+* before starting the following commands, you will turn on logging so that every command you enter will be recorded. You will then submit this log file to Blackboard once you have completed.  (script ica01.log)
   * go to your home directory (`cd ~`)
   * go into your Documents directory (for Mac -> `cd Documents`, for Windows -> `cd "My Documents"`)
   * create a new folder called itm695 (`mkdir itm695`)
@@ -239,6 +240,9 @@ Also, there is a free course on Codeacademy (https://www.codecademy.com/learn/le
   * Copy the content of `ex01-a` into `ex01-b` (`cp ex01-a ex01-b`)
   * remove the ex01-a directory (`rm -rf ex01-a`)
   * rename ex01-b to ex01 (`mv ex01-b ex01`)
-  
+
+
+Once you have completed the above steps, type the command "exit". Then log into Blackboard and submit the ica01.log file that will now exist in your document directory. 
+
 NOTE: It is now expected that you have the basic ability to use a bash prompt to move files, copy files, create and remove directories, delete files, and understand how to redirect output to a file, and view the contents of a file. Getting comfortable with this may take a bit of practice. I'd encourage you to spend a bit of time trying these commands and coming up with your own scenarios to text and exercise your skills in this area. 
 
